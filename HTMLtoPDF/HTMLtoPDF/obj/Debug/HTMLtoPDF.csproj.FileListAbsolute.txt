@@ -1,0 +1,12 @@
+D:\PAL Utilities\HTMLtoPDF\HTMLtoPDF\bin\Debug\HTMLtoPDF.exe.config
+D:\PAL Utilities\HTMLtoPDF\HTMLtoPDF\bin\Debug\HTMLtoPDF.exe
+D:\PAL Utilities\HTMLtoPDF\HTMLtoPDF\bin\Debug\HTMLtoPDF.pdb
+D:\PAL Utilities\HTMLtoPDF\HTMLtoPDF\bin\Debug\itextsharp.dll
+D:\PAL Utilities\HTMLtoPDF\HTMLtoPDF\bin\Debug\itextsharp.xmlworker.dll
+D:\PAL Utilities\HTMLtoPDF\HTMLtoPDF\bin\Debug\itextsharp.xml
+D:\PAL Utilities\HTMLtoPDF\HTMLtoPDF\obj\Debug\HTMLtoPDF.csprojResolveAssemblyReference.cache
+D:\PAL Utilities\HTMLtoPDF\HTMLtoPDF\obj\Debug\HTMLtoPDF.exe
+D:\PAL Utilities\HTMLtoPDF\HTMLtoPDF\obj\Debug\HTMLtoPDF.pdb
+D:\TestApplications\HTMLtoPDF\HTMLtoPDF\bin\Debug\HTMLtoPDF.exe.config
+D:\TestApplications\HTMLtoPDF\HTMLtoPDF\obj\Debug\HTMLtoPDF.exe
+D:\TestApplications\HTMLtoPDF\HTMLtoPDF\obj\Debug\HTMLtoPDF.pdb
